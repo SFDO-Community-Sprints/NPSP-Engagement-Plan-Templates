@@ -43,6 +43,7 @@ Full Name       | Github Username                                      | Sprint(
 
 ### Project Resources
 Research information can be found in the repository Wiki URL TBD:
+* Quip doc used during 2021 Sprint (notes copied to Wiki) - https://quip.com/nJeeANatXEfz/NPSP-Engagement-Plan-Community-Sprint-Notes
 * NPSP How-To Series: Engagement Plans (https://www.youtube.com/watch?v=VzpuBJV9_es)
 * Trailhead Moves Management - https://trailhead.salesforce.com/en/content/learn/modules/moves-management-with-nonprofit-success-pack
 * https://powerofus.force.com/s/article/NPSP-Create-and-Manage-Engagement-Plans
