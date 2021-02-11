@@ -50,13 +50,41 @@ Research information can be found in the repository Wiki URL TBD:
 
 
 ### Project Team Accomplishments
-What were you able to accomplish during the February 2021 Sprint?
+* Vision Statement 
+* How to Use Existing Engagement Plans Successfully
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
-What work still needs to be done before your work can be contributed back into the greater ecosystem?
+* submit Vision Statement and How-To to SFDO
+* request SFDO address the How-To in-app need
+* request SFDO consider new tool on roadmap to replace Engagement Plans
+* low priority - Update documentation with all the considerations - https://powerofus.force.com/s/article/NPSP-Create-and-Manage-Engagement-Plans
 
 ### Roadmap
-List the specifics of what you aim accomplish in the future if not already described above.
+Vision Statement 
+Design a new, Enterprise Nonprofit Cloud tool to replace Engagement Plans that works for the small organization with few resources, but robust enough for larger organizations with more complexity.  The tool should provide additional functionality beyond standard activity and tasks for all parts of the organization.  The tool needs to be able to be flexible and dynamically adapt to changes in process all while being user friendly and free.  
+
+In our work, we completed a list of needs that can not be met by the current model.  This new tool should address all those identified needs listed below.
+
+Needs
+* be able to manage repetitive tasks across objects
+* be able to trigger in tool based on record changes or creation and not rely on manual input
+* grouping tasks in a plan for easily identifying process - for visibility and easier management
+    * want to see all open tasks by specific task
+* be able to handle dynamic task assigning
+    * for defining user
+    * for defining which task gets assigned
+    * for defining timing and due dates
+* be able to stop/cancel task mid flow
+    * with a choice of mass deleting open tasks or marking as canceled/closed
+* be able to reassign tasks mid flow
+* be able to mass update open tasks if needing to update parent template/plan
+* more robust reporting of visibility of record’s open plans
+* need to be able to set tasks before milestone date (hard-coded or pulled from record)
+* keep multiple plans from being applied 
+    * popup notification
+    * audit report of records with parallel plans applied
+* be able to support multiple activity record types in task assignment
+
 
 ### Project Documentation
 Documentation information can be found in the repository Wiki URL TBD:
