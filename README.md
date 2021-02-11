@@ -30,6 +30,10 @@ https://powerofus.force.com/s/group/0F91E000000Lo0zSAC/sprint-project-engagement
   * Deb Van Zegeren - debra@clfoundation.org
   * Sheila Powell - sc.powell@outlook.com
   * Deborah Dimasi - ddimasi@gmail.com
+  * Dean Graham - dean@wombatworks.org
+  * Radhika Kosaraju - radhik012358@gmail.com
+  * Sprinty
+
 
 ### Past Project Team
 Full Name       | Github Username                                      | Sprint(s)               
@@ -87,5 +91,6 @@ Needs
 
 
 ### Project Documentation
-Documentation information can be found in the repository Wiki URL TBD:
+Documentation information can be found in the repository Wiki 
+https://github.com/SFDO-Community-Sprints/NPSP-Engagement-Plan-Templates/wiki
 * 
