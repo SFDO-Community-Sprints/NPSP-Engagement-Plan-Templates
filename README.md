@@ -21,7 +21,7 @@ https://powerofus.force.com/s/group/0F91E000000Lo0zSAC/sprint-project-engagement
 
 ### Current Project Team
 * Team Leader(s): TJ Warfield
-* GitHub Scribe(s): TBD
+* GitHub Scribe(s): TJ Warfield
 * List of all Contributors:
   * TJ Warfield - Group Leader -  tj@DataGeeksLab.com
   * Jaswinder Rattanpal - jrattanpal@salesforce.com
